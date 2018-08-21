@@ -9,7 +9,6 @@
 
 (function() {
     'use strict';
-    var popup = document.getElementsByClassName("_5hn6");
-    popup[0].remove();
+    document.getElementsByClassName("_5hn6")[0].remove();
     document.getElementById("pagelet_growth_expanding_cta").remove();
 })();
