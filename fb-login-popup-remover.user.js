@@ -8,7 +8,6 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
     document.getElementsByClassName("_5hn6")[0].remove();
     document.getElementById("pagelet_growth_expanding_cta").remove();
 })();
