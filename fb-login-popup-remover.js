@@ -5,7 +5,6 @@
 // @description  remove facebook login popup
 // @author       XironeHeate
 // @match        https://*.facebook.com/*
-// @include      https://*.facebook.com/*
 // ==/UserScript==
 
 (function() {
