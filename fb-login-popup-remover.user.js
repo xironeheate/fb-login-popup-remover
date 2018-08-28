@@ -9,5 +9,6 @@
 
 (function() {
     document.getElementsByClassName("_5hn6")[0].remove();
+    document.getElementById("u_jsonp_2_3").remove();
     document.getElementById("pagelet_growth_expanding_cta").remove();
 })();
